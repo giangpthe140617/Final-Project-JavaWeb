@@ -1,0 +1,22 @@
+footer div.pagger {   
+    display: inline-block;
+    margin: 2vh 12vw;
+}
+
+.pagger a
+{
+    border-color: blue;
+    border-style: solid;
+    margin: 0 2px;
+    padding: 0 2px;
+    text-decoration: none;
+}
+.pagger span
+{
+    color: red;
+}
+
+h4:hover {
+    color: red;
+    text-decoration: underline;
+}
